@@ -32,8 +32,4 @@ A responsive and user-friendly weather application built using **HTML**, **CSS**
 
 ---
 
-## 📦 Installation
 
-```bash
-git clone https://github.com/Anantmishra03/weather_app.git
-cd weather_app

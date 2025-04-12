@@ -2,8 +2,11 @@
 
 A responsive and user-friendly weather application built using **HTML**, **CSS**, and **JavaScript**. It fetches real-time weather data from a weather API and displays temperature, humidity, weather condition, and more based on user input (city name).
 
+---
 
+## 🌐 Live Demo
 
+> 🚀 [Click here to view the live site](#) *(https://thelocal-sky.netlify.app/)*
 
 ---
 

@@ -34,4 +34,6 @@ A responsive and user-friendly weather application built using **HTML**, **CSS**
 
 ---
 
+weather_app/ ├── index.html # Landing Page ├── style.css # All styles ├── js/ │ ├── script.js # UI interaction logic ├── bg.jpg # Background image ├── message/weather # Images, fonts, icons ├── README.md # This file
+
 
